@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Arumugaprakash</h1>
 <h3 align="center">Programmer | Backend Developer</h3>
 
+- 👨‍💻 All of my projects are available at [https://arumugaprakash.netlify.app/](https://arumugaprakash.netlify.app/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/arumugaprakash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arumugaprakash" height="30" width="40" /></a>

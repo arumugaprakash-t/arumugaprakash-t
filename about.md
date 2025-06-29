@@ -11,11 +11,11 @@ permalink: /about/
       
       <div class="about-content">
         <p>
-          Hi there! I'm a passionate software engineer with over 5 years of experience building scalable web applications and distributed systems. I love diving deep into complex technical challenges and sharing what I learn along the way.
+          Hi there! I'm a software engineer passionate about building scalable applications and solving complex technical challenges. I enjoy sharing knowledge and experiences from my journey in the tech industry.
         </p>
         
         <p>
-          When I'm not coding, you'll find me exploring new places around the world. I believe travel broadens the mind and provides fresh perspectives that enhance creativity in software development.
+          When I'm not coding, I love exploring new technologies, contributing to open source projects, and occasionally traveling to discover new places and cultures.
         </p>
         
         <h2>Technical Expertise</h2>

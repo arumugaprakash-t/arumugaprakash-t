@@ -1,5 +1,7 @@
 # Personal Tech & Travel Blog
 
+Live at: https://arumugaprakash-t.github.io/
+
 A minimal, fast, and SEO-optimized personal website built with Jekyll, featuring a clean design with dark mode support and excellent typography.
 
 ## Features

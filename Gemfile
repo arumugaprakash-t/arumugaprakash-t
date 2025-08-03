@@ -13,7 +13,7 @@ group :jekyll_plugins do
   gem "jekyll-seo-tag"
 end
 
-# GitHub Pages compatibility
+# GitHub Pages compatibility (commented out for local development)
 gem "github-pages", group: :jekyll_plugins
 
 # Windows and JRuby compatibility

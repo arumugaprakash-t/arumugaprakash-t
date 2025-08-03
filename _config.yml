@@ -1,0 +1,63 @@
+# Site settings
+title: Prakash
+email: your-email@example.com
+description: >-
+  Personal portfolio of Prakash - Golang and Java developer passionate about 
+  database internals and system architecture.
+baseurl: ""
+url: "https://yourusername.github.io"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Exclude from processing
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+# Collections
+collections:
+  pages:
+    output: true
+    permalink: /:name/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+
+# Social links (for future use)
+github_username: yourusername
+linkedin_username: yourlinkedin
+
+# SEO
+author: Prakash
+twitter:
+  username: yourtwitterhandle
+social:
+  name: Prakash
+  links:
+    - https://github.com/yourusername
+    - https://linkedin.com/in/yourlinkedin
